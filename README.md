@@ -4,17 +4,17 @@ I’m **VETTRIVEL U**, a passionate **Offensive Security Expert** hailing from *
 
 I'm specialized in **Vulnerability Assessment & Penetration Testing (VAPT), Red Teaming, and Offensive Security Operations** — with a proven track record of breaching systems to secure them.
 
-🛡️ I’ve earned multiple **Hall of Fame recognitions from MNCs** for responsibly disclosing critical vulnerabilities. From gaining root access to high-level systems to pwning servers, I’ve had the thrill of ethically exploiting and helping secure both **Indian and US government infrastructures**.
+I’ve earned multiple **Hall of Fame recognitions from MNCs** for responsibly disclosing critical vulnerabilities. From gaining root access to high-level systems to pwning servers, I’ve had the thrill of ethically exploiting and helping secure both **Indian and US government infrastructures**.
 
-🎁 Along the way, I’ve bagged exclusive **swags and rewards**, and I’m proudly listed as a **Top Voice in Information Security on LinkedIn**.
+Along the way, I’ve bagged exclusive **swags and rewards**, and I’m proudly listed as a **Top Voice in Information Security on LinkedIn**.
 
-🧑‍💼 As a **freelancer**, I collaborate with companies to work on outsourced security projects — and have been **paid by top-tier organizations** for my findings.
+As a **freelancer**, I collaborate with companies to work on outsourced security projects — and have been **paid by top-tier organizations** for my findings.
 
-🧠 I also love giving back to the community: conducting **classes, webinars, and mentorship sessions** for juniors and aspiring bug bounty hunters.
+I also love giving back to the community: conducting **classes, webinars, and mentorship sessions** for juniors and aspiring bug bounty hunters.
 
-🏆 I recently **qualified for the finals of a national-level Hackathon x CTF**, proving my ability to think under pressure and hack smart.
+I recently **qualified for the finals of a national-level Hackathon x CTF**, proving my ability to think under pressure and hack smart.
 
-✍️ You’ll often find me **sharing deep dives and writeups on Medium**, covering everything from **0-day findings to beginner tips**.
+You’ll often find me **sharing deep dives and writeups on Medium**, covering everything from **0-day findings to beginner tips**.
 
 ---
 
@@ -70,6 +70,7 @@ I'm specialized in **Vulnerability Assessment & Penetration Testing (VAPT), Red 
 ---
 
 ## 🎓 Certifications  
+- ✅ eJPT - Jr. Penetration Tester (INE)
 - ✅ CEH Essentials (EC-Council)  
 - ✅ API Security Fundamentals (APISec University)  
 - ✅ CC (ISC2)  
@@ -78,9 +79,8 @@ I'm specialized in **Vulnerability Assessment & Penetration Testing (VAPT), Red 
 ---  
 
 ## 📫 Connect With Me  
-- 🔗 [LinkedIn - Top Information Security Voice](https://linkedin.com/in/yourprofile)  
-- 📧 Email: uvettrivel007@gmail.com  
-- 🌐 [Portfolio](https://yourwebsite.com)  
+- 🔗 [LinkedIn - Top Information Security Voice]  
+- 📧 Email: uvettrivel007@gmail.com   
 
 ---  
 
