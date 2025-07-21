@@ -17,6 +17,7 @@ I recently **qualified for the finals of a national-level Hackathon x CTF**, pro
 You’ll often find me **sharing deep dives and writeups on Medium**, covering everything from **0-day findings to beginner tips**.
 
 ---
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4840710" style='border:none;'></iframe>
 
 ## 🏆 Hall of Fame & Achievements
 
